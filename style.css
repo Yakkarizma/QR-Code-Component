@@ -60,3 +60,25 @@ h1{
 p{
     text-align: center;
 }
+
+
+@media (max-width:475px){
+    .icerik{
+        width: 90%;
+        max-width: 475px;
+        padding: 20px;
+    }
+
+    h1{
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    p{
+        font-size: 14px;
+    }
+
+    img{
+        margin-bottom: 15px;
+    }
+}
