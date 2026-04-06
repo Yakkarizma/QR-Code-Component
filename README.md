@@ -24,6 +24,9 @@ This is a solution to the [QR Code Component challenge on Frontend Mentor](https
 - Solution URL: [https://github.com/Yakkarizma/QR-Code-Component]
 - Live Site URL: [https://yakkarizma.github.io/QR-Code-Component/]
 
+## My process
+
+
 ### Built with
 
 - Semantic HTML5 markup
