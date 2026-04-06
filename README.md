@@ -9,7 +9,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -30,10 +29,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
-### Useful resources
-
-- [CSS Box Shadow Examples](https://getcssscan.com/css-box-shadow-examples) - This website helped me for finding my box shadows.
 
 ## Author
 
